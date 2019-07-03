@@ -1,0 +1,12 @@
+Command Parameters
+
+  Usage:
+   -i2c <I2C>
+              default: 1
+   -gpio <gpio>
+              default: 4
+   --help <Usage>
+
+ 
+Example:
+#./konaisetest-01.01-05.00.05 -i2c 1 -gpio 4
