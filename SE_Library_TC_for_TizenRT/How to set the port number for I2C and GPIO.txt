@@ -1,0 +1,12 @@
+Command Parameters
+
+  Usage:
+   -i2c <I2C>
+              default: 1
+   -gpio <gpio>
+              default: 15
+   --help <Usage>
+
+ 
+Example:
+#security_hal -i2c 1 -gpio 15
